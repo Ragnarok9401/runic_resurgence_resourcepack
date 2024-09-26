@@ -1,0 +1,6 @@
+{
+	"parent": "custom/tablet",
+	"textures": {
+		"layer0": "item/items/tablet/shadow_runic_tablet_soul"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "custom/tablet",
+	"textures": {
+		"layer0": "item/memory_t2_spells/search_e"
+	}
+}

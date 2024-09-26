@@ -1,0 +1,6 @@
+{
+	"parent": "custom/knowledge_fragments/knowledge_fragment",
+	"textures": {
+		"layer0": "item/knowledge_fragment_necrosculker_3"
+	}
+}

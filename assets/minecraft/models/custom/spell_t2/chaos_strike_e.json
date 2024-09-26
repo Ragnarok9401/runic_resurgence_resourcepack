@@ -1,0 +1,6 @@
+{
+	"parent": "custom/tablet",
+	"textures": {
+		"layer0": "item/memory_t2_spells/chaos_strike_e"
+	}
+}

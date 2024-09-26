@@ -1,0 +1,6 @@
+{
+	"parent": "item/boss_items/harp",
+	"textures": {
+		"layer0": "item/boss_items/sunsong_sycophant/catastrophic_harp"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "custom/tablet",
+	"textures": {
+		"layer0": "item/musical_tablet"
+	}
+}
